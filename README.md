@@ -19,7 +19,18 @@ Here are some ideas to get you started:
 - 🌱 I have experience web programming languange like **Laravel**, **CI3**, **Javascript**.
 - 👯 I’m looking to freelance or part time.
 
-![work](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJqZWR1b3Y1dDJndjdlYnl2d2Zhd24waGFscTQyOGU0czk3OGZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)
+#### Skills
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+#### Connect With Me
+
+![https://www.linkedin.com/in/imam-biladi-60716222a/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <div class="d-flex justify-content-center align-items-center vh-100">
     <h1 style="text-align:center;">My Portofolio</h1>
