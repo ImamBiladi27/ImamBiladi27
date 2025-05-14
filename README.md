@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone! I'm Imam Biladi 👋
 
 <!--
 **ImamBiladi27/ImamBiladi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on **@Orbiz** as Fullstack **Web Developer**
+🌱 I have experience web programming languange like **Laravel**, **CI3**, **Javascript**.
+👯 I’m looking to freelance or part time.
+
+![work](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJqZWR1b3Y1dDJndjdlYnl2d2Zhd24waGFscTQyOGU0czk3OGZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)
