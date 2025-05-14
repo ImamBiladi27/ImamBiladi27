@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ![my-laravel-portofolio](asset/screenshot_projek.png)
 
-- **my experience work** using laravel 10 integration **RESTFULL API**, **JQUERY**, **AJAX**, **AJAX**.
+- **my experience work** using laravel 10 integration **RESTFULL API**, **JQUERY**, **AJAX**.
